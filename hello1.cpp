@@ -59,7 +59,7 @@ int main() {
 // char GenRand() {
 //     return alphnum[rand() % strLen];
 // }
-// explainantion:-This function is designed to randomly select a character from the alphnum array,
+// explaination:-This function is designed to randomly select a character from the alphnum array,
 //  which contains a mix of digits, special characters, uppercase letters, and lowercase letters.
 //sizeof(alphnum) - 1 gives the total number of characters in the array (strLen).
 
